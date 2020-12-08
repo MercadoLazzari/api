@@ -87,5 +87,45 @@
       "Variant": "",
       "created": "2019-09-27",
       "promotion": 1
+    }],
+    "categories": [{
+      "id": 1,
+      "parent_id": null,
+      "name": "Açougue[assets/imgs/mocks/acougue.png]"
+    },
+    {
+      "id": 2,
+      "parent_id": null,
+      "name": "Hortifruti[assets/imgs/mocks/hotifruti.png]"
+    },
+    {
+      "id": 3,
+      "parent_id": null,
+      "name": "Mercearia Alimentos[assets/imgs/mocks/mecearia_alimentos.png]"
+    },
+    {
+      "id": 4,
+      "parent_id": null,
+      "name": "Padaria[assets/imgs/mocks/padaria.png]"
+    },
+    {
+      "id": 5,
+      "parent_id": null,
+      "name": "Frios e Laticínios[assets/imgs/mocks/frios_laticinios.png]"
+    },
+    {
+      "id": 6,
+      "parent_id": null,
+      "name": "Mercearia e Alimentos[assets/imgs/mocks/mercearia_alimentos.png]"
+    },
+    {
+      "id": 7,
+      "parent_id": null,
+      "name": "Limpeza[assets/imgs/mocks/limpeza.png]"
+    },
+    {
+      "id": 8,
+      "parent_id": null,
+      "name": "Bebidas[assets/imgs/mocks/bebidas.png]"
     }]
 }
