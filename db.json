@@ -101,30 +101,25 @@
     {
       "id": 3,
       "parent_id": null,
-      "name": "Mercearia Alimentos[assets/imgs/mocks/mecearia_alimentos.png]"
+      "name": "Padaria[assets/imgs/mocks/padaria.png]"
     },
     {
       "id": 4,
       "parent_id": null,
-      "name": "Padaria[assets/imgs/mocks/padaria.png]"
+      "name": "Frios e Laticínios[assets/imgs/mocks/frios_laticinios.png]"
     },
     {
       "id": 5,
       "parent_id": null,
-      "name": "Frios e Laticínios[assets/imgs/mocks/frios_laticinios.png]"
+      "name": "Mercearia Alimentos[assets/imgs/mocks/mecearia_alimentos.png]"
     },
     {
       "id": 6,
       "parent_id": null,
-      "name": "Mercearia e Alimentos[assets/imgs/mocks/mercearia_alimentos.png]"
-    },
-    {
-      "id": 7,
-      "parent_id": null,
       "name": "Limpeza[assets/imgs/mocks/limpeza.png]"
     },
     {
-      "id": 8,
+      "id": 7,
       "parent_id": null,
       "name": "Bebidas[assets/imgs/mocks/bebidas.png]"
     }]
