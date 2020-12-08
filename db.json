@@ -91,36 +91,40 @@
     "categories": [{
       "id": 1,
       "parent_id": null,
+      "name": "Departamentos"
+    },{
+      "id": 2,
+      "parent_id": 1,
       "name": "Açougue[assets/imgs/mocks/acougue.png]"
     },
     {
-      "id": 2,
-      "parent_id": null,
+      "id": 3,
+      "parent_id": 1,
       "name": "Hortifruti[assets/imgs/mocks/hotifruti.png]"
     },
     {
-      "id": 3,
-      "parent_id": null,
+      "id": 4,
+      "parent_id": 1,
       "name": "Padaria[assets/imgs/mocks/padaria.png]"
     },
     {
-      "id": 4,
-      "parent_id": null,
+      "id": 5,
+      "parent_id": 1,
       "name": "Frios e Laticínios[assets/imgs/mocks/frios_laticinios.png]"
     },
     {
       "id": 5,
-      "parent_id": null,
+      "parent_id": 1,
       "name": "Mercearia Alimentos[assets/imgs/mocks/mecearia_alimentos.png]"
     },
     {
-      "id": 6,
-      "parent_id": null,
+      "id": 7,
+      "parent_id": 1,
       "name": "Limpeza[assets/imgs/mocks/limpeza.png]"
     },
     {
-      "id": 7,
-      "parent_id": null,
+      "id": 8,
+      "parent_id": 1,
       "name": "Bebidas[assets/imgs/mocks/bebidas.png]"
     }]
 }
