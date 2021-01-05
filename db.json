@@ -127,5 +127,17 @@
       "parent_id": 1,
       "name": "Bebidas[assets/imgs/mocks/bebidas.png]"
     }],
-    "customers": []
+    "customers": [{
+        "id": "1",
+        "name": "emerson kurauti",
+        "registration_date": "2021-01-05",
+        "email": "emersonkurauti@gmail.com",
+        "last_visit": "",
+        "state": "",
+        "token": "123456",
+        "CustomerAddress": {
+          "id": ""
+        },
+        "newsletter": 0
+    }]
 }
